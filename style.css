@@ -80,20 +80,7 @@ a {
     transition: .3s ease-in-out;
 }
 
-.container2 {
-    display: none;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
 @media screen and (max-width: 476px) {
-    .container2 {
-        display: block;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
     .container {
         background-color: #ffffff;
     }
